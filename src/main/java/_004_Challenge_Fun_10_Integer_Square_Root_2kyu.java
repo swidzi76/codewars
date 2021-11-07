@@ -1,7 +1,7 @@
 
 /// 4 kyu 556
 
-public class Challenge_Fun_10_Integer_Square_Root_2kyu {
+public class _004_Challenge_Fun_10_Integer_Square_Root_2kyu {
     public static void main(String[] args) {
         tests();
     }

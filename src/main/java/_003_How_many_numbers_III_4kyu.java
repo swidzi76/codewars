@@ -6,7 +6,7 @@ import java.util.TimerTask;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class How_many_numbers_III_4kyu {
+public class _003_How_many_numbers_III_4kyu {
     public static void main(String[] args) {
         sampleTests();
 //        findAll(10,3);
