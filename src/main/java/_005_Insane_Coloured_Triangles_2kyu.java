@@ -1,7 +1,7 @@
 import java.util.*;
 
 // 06 - 11 - 2021
-// 4 kyu 685
+// 4 kyu 685 -> 813
 public class _005_Insane_Coloured_Triangles_2kyu {
     public static void main(String[] args) {
 //        String[][] sts = new String[][]{};
